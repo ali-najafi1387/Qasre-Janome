@@ -538,6 +538,9 @@ display: none;
 .box__baner__site{
   gap: 8px;
  }
+ .img__baner{
+  width: 110px;
+ }
  .box__chat__icon{
   top: 15px;
   width: 40px;
